@@ -1,0 +1,10 @@
+.first_block, .second_block{
+    text-align: left;
+    display: inline-block;
+}
+.all{
+    text-align: center;
+}
+.validationError {
+    color: red;
+}
